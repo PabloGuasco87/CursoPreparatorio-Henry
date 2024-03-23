@@ -1,2 +1,1 @@
-# CursoPreparatorio-Henry
-Este es un repositorio de prueba del Módulo 2 del curso preparatorio de Henry
+Este es un proyecto de como crear un repositorio y clonarlo desde Github a mi computadora local
