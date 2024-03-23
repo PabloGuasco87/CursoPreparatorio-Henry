@@ -1,1 +1,3 @@
-Este es un proyecto de como crear un repositorio y clonarlo desde Github a mi computadora local
+Pablo Guasco
+Esta es una prueba para clonar un archivo desde mi terminal a Github.
+
